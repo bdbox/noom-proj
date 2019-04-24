@@ -6,6 +6,10 @@ To run this project, you need to clone or download it to your local machine and 
 
 `npm start`
 
+### Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/bdbox/noom-proj/master/src/images/noom-proj-screenshot.png)
+
 ---------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
