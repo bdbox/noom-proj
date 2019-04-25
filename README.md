@@ -10,6 +10,10 @@ To run this project, you need to clone or download it to your local machine and 
 
 ![Screenshot](https://raw.githubusercontent.com/bdbox/noom-proj/master/src/images/noom-proj-screenshot.png)
 
+### Live demo
+
+[demo](http://ec2-18-217-187-47.us-east-2.compute.amazonaws.com/)
+
 ---------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
